@@ -1,0 +1,973 @@
+{
+  "ok": true,
+  "frames_root": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14820,
+          "bbox": [
+            8,
+            37,
+            184,
+            170
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15134,
+          "bbox": [
+            5,
+            40,
+            186,
+            170
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14585,
+          "bbox": [
+            6,
+            45,
+            186,
+            170
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14173,
+          "bbox": [
+            5,
+            52,
+            186,
+            170
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14229,
+          "bbox": [
+            5,
+            51,
+            187,
+            170
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14550,
+          "bbox": [
+            9,
+            39,
+            183,
+            169
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11996,
+          "bbox": [
+            10,
+            31,
+            182,
+            183
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11495,
+          "bbox": [
+            6,
+            29,
+            186,
+            184
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11168,
+          "bbox": [
+            9,
+            26,
+            183,
+            176
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10734,
+          "bbox": [
+            14,
+            23,
+            178,
+            167
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11105,
+          "bbox": [
+            9,
+            33,
+            183,
+            184
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11203,
+          "bbox": [
+            16,
+            30,
+            177,
+            184
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10958,
+          "bbox": [
+            12,
+            24,
+            179,
+            183
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11761,
+          "bbox": [
+            8,
+            31,
+            184,
+            183
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11231,
+          "bbox": [
+            9,
+            34,
+            183,
+            180
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9832,
+          "bbox": [
+            11,
+            27,
+            180,
+            161
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9785,
+          "bbox": [
+            14,
+            29,
+            177,
+            163
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10236,
+          "bbox": [
+            15,
+            36,
+            176,
+            181
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9472,
+          "bbox": [
+            12,
+            56,
+            180,
+            180
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11494,
+          "bbox": [
+            6,
+            34,
+            187,
+            180
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9853,
+          "bbox": [
+            12,
+            28,
+            180,
+            162
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10460,
+          "bbox": [
+            8,
+            28,
+            184,
+            166
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15513,
+          "bbox": [
+            12,
+            9,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13996,
+          "bbox": [
+            17,
+            5,
+            175,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13374,
+          "bbox": [
+            24,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15178,
+          "bbox": [
+            16,
+            8,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10633,
+          "bbox": [
+            27,
+            69,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10836,
+          "bbox": [
+            28,
+            27,
+            164,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9673,
+          "bbox": [
+            31,
+            5,
+            160,
+            149
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11313,
+          "bbox": [
+            32,
+            39,
+            159,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11427,
+          "bbox": [
+            27,
+            39,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11910,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12127,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12061,
+          "bbox": [
+            28,
+            8,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12508,
+          "bbox": [
+            29,
+            44,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11899,
+          "bbox": [
+            17,
+            58,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11632,
+          "bbox": [
+            24,
+            36,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12042,
+          "bbox": [
+            40,
+            9,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12038,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11057,
+          "bbox": [
+            44,
+            17,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12438,
+          "bbox": [
+            35,
+            10,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12171,
+          "bbox": [
+            29,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12028,
+          "bbox": [
+            36,
+            8,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12542,
+          "bbox": [
+            36,
+            8,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11246,
+          "bbox": [
+            42,
+            15,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13083,
+          "bbox": [
+            32,
+            8,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12176,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12198,
+          "bbox": [
+            47,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10461,
+          "bbox": [
+            23,
+            51,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11218,
+          "bbox": [
+            34,
+            24,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12849,
+          "bbox": [
+            33,
+            8,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13897,
+          "bbox": [
+            28,
+            5,
+            164,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14016,
+          "bbox": [
+            19,
+            12,
+            173,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12011,
+          "bbox": [
+            14,
+            66,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13606,
+          "bbox": [
+            26,
+            5,
+            166,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13680,
+          "bbox": [
+            23,
+            14,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v5/qa/final-frames-root/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14299,
+          "bbox": [
+            24,
+            5,
+            167,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    }
+  ]
+}

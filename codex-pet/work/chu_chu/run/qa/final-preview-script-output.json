@@ -1,0 +1,51 @@
+{
+  "ok": true,
+  "output_dir": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/run/final/previews-v2/states",
+  "previews": [
+    {
+      "state": "idle",
+      "path": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/run/final/previews-v2/states/idle.gif",
+      "frames": 6
+    },
+    {
+      "state": "running-right",
+      "path": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/run/final/previews-v2/states/running-right.gif",
+      "frames": 8
+    },
+    {
+      "state": "running-left",
+      "path": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/run/final/previews-v2/states/running-left.gif",
+      "frames": 8
+    },
+    {
+      "state": "waving",
+      "path": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/run/final/previews-v2/states/waving.gif",
+      "frames": 4
+    },
+    {
+      "state": "jumping",
+      "path": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/run/final/previews-v2/states/jumping.gif",
+      "frames": 5
+    },
+    {
+      "state": "failed",
+      "path": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/run/final/previews-v2/states/failed.gif",
+      "frames": 8
+    },
+    {
+      "state": "waiting",
+      "path": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/run/final/previews-v2/states/waiting.gif",
+      "frames": 6
+    },
+    {
+      "state": "running",
+      "path": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/run/final/previews-v2/states/running.gif",
+      "frames": 6
+    },
+    {
+      "state": "review",
+      "path": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/run/final/previews-v2/states/review.gif",
+      "frames": 6
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "strip": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/run/decoded/look-cardinals-v2.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        546,
+        720
+      ],
+      "used_pixels": 153675,
+      "edge_pixels": 6,
+      "output": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/run/decoded/look-anchors-v2/000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        546,
+        0,
+        1092,
+        720
+      ],
+      "used_pixels": 154085,
+      "edge_pixels": 0,
+      "output": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/run/decoded/look-anchors-v2/090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        1092,
+        0,
+        1638,
+        720
+      ],
+      "used_pixels": 145574,
+      "edge_pixels": 0,
+      "output": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/run/decoded/look-anchors-v2/180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1638,
+        0,
+        2184,
+        720
+      ],
+      "used_pixels": 156109,
+      "edge_pixels": 0,
+      "output": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/run/decoded/look-anchors-v2/270.png"
+    }
+  ]
+}

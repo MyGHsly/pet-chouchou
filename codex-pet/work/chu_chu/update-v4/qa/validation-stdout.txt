@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v4/final/spritesheet-final.png",
+  "encoded_bytes": 2619273,
+  "sha256": "f2bb8fcb165ec8c32afff8a6a8541bbfcdae2cf64790d7f5502aa87378dcb90b",
+  "format": "PNG",
+  "mode": "RGBA",
+  "columns": 8,
+  "rows": 11,
+  "sprite_version_number": 2,
+  "width": 1536,
+  "height": 2288,
+  "transparent_rgb_residue_pixels": 0,
+  "errors": [],
+  "warnings": []
+}

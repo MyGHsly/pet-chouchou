@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v3/qa/rows/running-left/frames",
+  "states": [
+    "running-left"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v3/qa/rows/running-left/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11299,
+          "bbox": [
+            8,
+            33,
+            183,
+            180
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v3/qa/rows/running-left/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9945,
+          "bbox": [
+            11,
+            26,
+            180,
+            161
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v3/qa/rows/running-left/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9881,
+          "bbox": [
+            13,
+            28,
+            178,
+            162
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v3/qa/rows/running-left/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10332,
+          "bbox": [
+            13,
+            34,
+            177,
+            181
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v3/qa/rows/running-left/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9587,
+          "bbox": [
+            10,
+            55,
+            182,
+            179
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v3/qa/rows/running-left/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11606,
+          "bbox": [
+            5,
+            33,
+            187,
+            179
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v3/qa/rows/running-left/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9889,
+          "bbox": [
+            11,
+            26,
+            180,
+            162
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v3/qa/rows/running-left/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10357,
+          "bbox": [
+            7,
+            27,
+            184,
+            166
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "ok": true,
+  "atlas": "/Users/lingyu.shuai/Documents/Codex/2026-10-04/x/work/chu_chu/update-v3/final/spritesheet-v3-final.png",
+  "encoded_bytes": 2654058,
+  "sha256": "5727a19eee50b12c6f7ad8264e946ae322dc819c494908759f29a33e41144c1f",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      201,
+      195,
+      147,
+      199,
+      202
+    ],
+    "airborne_lift_pixels": 55,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      96.0,
+      96.5,
+      96.0,
+      98.0,
+      104.0,
+      104.5,
+      98.5,
+      96.5,
+      96.5,
+      96.5,
+      96.0,
+      96.0,
+      91.5,
+      95.0,
+      96.0,
+      96.5
+    ],
+    "look_widths": [
+      96,
+      97,
+      98,
+      100,
+      114,
+      115,
+      103,
+      99,
+      97,
+      97,
+      98,
+      98,
+      105,
+      100,
+      96,
+      97
+    ],
+    "maximum_center_drift_pixels": 8.5,
+    "maximum_width_ratio": 1.1979166666666667
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 157.5 accepted with a reviewed warning",
+    "000 has transparent interior hole rows (y=22, y=23, y=24, y=25, +2 more)",
+    "022.5 has transparent interior hole rows (y=16, y=17, y=18, y=19, +3 more)",
+    "045 has transparent interior hole rows (y=18, y=19, y=20)",
+    "067.5 has transparent interior hole rows (y=15, y=16, y=17, y=18, +3 more)",
+    "157.5 has transparent interior hole rows (y=28, y=29, y=30, y=31, +5 more)",
+    "180 has transparent interior hole rows (y=30, y=31, y=32, y=33, +11 more)",
+    "202.5 has transparent interior hole rows (y=31, y=32, y=33, y=34, +1 more)"
+  ]
+}
